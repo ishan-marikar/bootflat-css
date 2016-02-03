@@ -1,0 +1,38 @@
+{
+  "name": "bootflat-css",
+  "authors": [
+    "Ishan Marikar <ishan.marikar@outlook.com>"
+  ],
+  "keywords": [
+    "bootflat",
+    "flat",
+    "twitter",
+    "bootstrap",
+    "twitter-bootstrap",
+    "css"
+  ],
+  "description": "Bootflat for Bower without all the crud.",
+  "main": [
+    "css/bootflat.min.css",
+    "img/check_flat/default.png",
+    "js/icheck.min.js",
+    "js/jquery.fs.selecter.min.js",
+    "js/jquery.fs.stepper.min.js"
+  ],
+  "license": "MIT",
+  "homepage": "http://bootflat.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+  "node"
+],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ishan-marikar/bootflat-css.git"
+  },
+}
