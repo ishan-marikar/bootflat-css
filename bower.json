@@ -28,11 +28,8 @@
     "test",
     "tests"
   ],
-  "moduleType": [
-  "node"
-],
   "repository": {
     "type": "git",
     "url": "git://github.com/ishan-marikar/bootflat-css.git"
-  },
+  }
 }
